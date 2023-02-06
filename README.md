@@ -55,7 +55,7 @@ This project is developed for demo purpose and it's not supposed to be used in r
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
--[Contact on LinkedIn ]( https://www.linkedin.com/in/praneeth-maturu-693b2822a/ )
--[Contact on Instagram]( https://www.instagram.com/maturu_praneeth/?igshid=ZDdkNTZiNTM= )
+- [Contact on LinkedIn ]( https://www.linkedin.com/in/praneeth-maturu-693b2822a/ )
+- [Contact on Instagram]( https://www.instagram.com/maturu_praneeth/?igshid=ZDdkNTZiNTM= )
 
 "# insurancemanagement-master" 
